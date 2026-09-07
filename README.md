@@ -6,13 +6,13 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Adila+Ramadhan" alt="Name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Adila+Ramadhan" alt="Name"/>
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=QA+Automation+Engineer+%7C+SDET" alt="Role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&height=30&lines=QA+Automation+Engineer+%7C+SDET" alt="Role"/>
 </a>
 
 <br/><br/>
