@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Clean Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:0d1117&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Adila+Ramadhan" alt="Name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Adila+Ramadhan" alt="Name"/>
 </a>
 
 <br/>
@@ -131,5 +131,5 @@ fun_fact: "Finding bugs is not just my job — it's my passion"
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
