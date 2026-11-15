@@ -114,10 +114,10 @@ current_focus:
 <div align="center">
 
 <a href="https://github.com/adilaramadhan/qa-e2e-tester">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adilaramadhan&repo=qa-e2e-tester&hide_border=true&bg_color=0D1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=C9D1D9" alt="qa-e2e-tester"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=adilaramadhan&repo=qa-e2e-tester&hide_border=true&bg_color=0D1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=C9D1D9" alt="qa-e2e-tester"/>
 </a>
 <a href="https://github.com/adilaramadhan/qa-report-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adilaramadhan&repo=qa-report-generator&hide_border=true&bg_color=0D1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=C9D1D9" alt="qa-report-generator"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=adilaramadhan&repo=qa-report-generator&hide_border=true&bg_color=0D1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=C9D1D9" alt="qa-report-generator"/>
 </a>
 
 </div>
