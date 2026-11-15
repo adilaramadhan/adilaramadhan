@@ -7,7 +7,7 @@
 
 <!-- Dynamic Rotating Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&height=35&lines=Building+Bulletproof+Test+Architectures;Automating+End-to-End+User+Journeys;Creator+of+qa-ultra-tester;Zero+Tolerance+for+Production+Incidents" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&height=35&lines=Building+Bulletproof+Test+Architectures;Automating+End-to-End+User+Journeys;Creator+of+qa-e2e-tester+%26+qa-report-generator;Zero+Tolerance+for+Production+Incidents" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -48,7 +48,7 @@ expertise:
   ci_cd_integration: [GitHub Actions, Docker, Automated Regression Gates]
 
 current_focus:
-  project: "qa-ultra-tester — Autonomous E2E QA testing agent skill"
+  project: "qa-e2e-tester + qa-report-generator — Playwright E2E testing and DOCX reporting agent skills"
   topics: [Chaos Engineering, AI-Assisted QA Automation, Test Observability]
 ```
 
