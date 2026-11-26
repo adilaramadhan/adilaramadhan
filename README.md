@@ -52,6 +52,8 @@ current_focus:
   topics: [Chaos Engineering, AI-Assisted QA Automation, Test Observability]
 ```
 
+<p align="left">Also running <a href="https://www.gandasulie.web.id/"><b>Gandasulie</b></a> — jasa pembuatan website UMKM, company profile, portofolio, undangan digital, dan pengujian aplikasi.</p>
+
 ---
 
 ### ⚡ &nbsp; Tech & Tools Ecosystem
